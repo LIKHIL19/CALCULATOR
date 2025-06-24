@@ -1,14 +1,1 @@
-This is a basic calculator application built using Python's Tkinter GUI library. The calculator supports:
--Basic arithmetic operations (+, -, *, /)
--Parentheses for grouping
--A clear (C) button to reset input
--An equals (=) button to evaluate expressions
--The layout is designed using the grid() manager for a structured, evenly spaced interface. Button widgets allow input, and a Text widget displays the live input or result.
-->Features:
--Fully responsive grid layout (buttons auto-resize)
--Clean, minimal styling
--Input display using a multi-line Text widget
--Handles invalid expressions with error messages
-->Technologies Used:
--Python 3
--Tkinter for GUI
+This is a basic calculator application built using Python's Tkinter GUI library. It supports essential arithmetic operations such as addition, subtraction, multiplication, and division, along with parentheses for grouped expressions. The calculator features a clear (C) button to reset input and an equals (=) button to evaluate the entered expression. The interface is structured using the grid() layout manager to ensure a clean, evenly spaced design. Input is handled through button widgets, and the current expression or result is displayed using a multi-line Text widget. The application includes a responsive layout, minimal styling, and proper error handling for invalid expressions. It is developed using Python 3 and Tkinter for the graphical user interface.
